@@ -466,9 +466,8 @@ section {
 
 /* --- CONTACTO --- */
 .contact-container {
-    display: grid;
-    grid-template-columns: 1fr 1.2fr;
-    gap: 3.5rem;
+    max-width: 650px;
+    margin: 0 auto;
     background-color: var(--white);
     padding: 3.5rem;
     border-radius: 16px;
@@ -478,8 +477,9 @@ section {
 
 .contact-info h3 {
     font-size: 1.5rem;
-    margin-bottom: 1.8rem;
+    margin-bottom: 2rem;
     color: var(--primary);
+    text-align: center;
 }
 
 .info-item {
