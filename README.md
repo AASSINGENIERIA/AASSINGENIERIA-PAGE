@@ -129,14 +129,14 @@
                     <i class="fa-solid fa-phone"></i>
                     <div>
                         <strong>Teléfono</strong>
-                        <p>+56 9 1234 5678</p>
+                        <p>+56 9 6725 8108</p>
                     </div>
                 </div>
                 <div class="info-item">
                     <i class="fa-solid fa-envelope"></i>
                     <div>
                         <strong>Correo</strong>
-                        <p>contacto@aassingenieria.cl</p>
+                        <p>aass@aassingenieria.cl</p>
                     </div>
                 </div>
                 <div class="info-item">
@@ -154,25 +154,6 @@
                     </div>
                 </div>
             </div>
-
-            <form class="contact-form" id="contactForm">
-                <div class="form-group">
-                    <label for="nombre">Nombre Completo</label>
-                    <input type="text" id="nombre" required placeholder="Tu nombre">
-                </div>
-                <div class="form-group">
-                    <label for="email">Correo Electrónico</label>
-                    <input type="email" id="email" required placeholder="tu@email.com">
-                </div>
-                <div class="form-group">
-                    <label for="mensaje">Mensaje o Requerimiento</label>
-                    <textarea id="mensaje" rows="4" required placeholder="Describe tu proyecto o consulta..."></textarea>
-                </div>
-                <button type="submit" class="btn btn-primary btn-full">
-                    <span>Enviar Mensaje</span>
-                    <i class="fa-solid fa-paper-plane"></i>
-                </button>
-            </form>
         </div>
     </section>
 
